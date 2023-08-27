@@ -1,0 +1,15 @@
+# mkdir gnuradio_notebook
+# cd gnuradio_notebook
+# python --version
+# python -m venv .rf_analysis
+# source .rf_analysis/bin/activate
+# python -m pip install --upgrade pip
+# pip install wheel
+# pip install -r requirements.txt
+jupyterlab
+numpy
+matplotlib
+pandas
+seaborn
+scipy
+scikit-image
